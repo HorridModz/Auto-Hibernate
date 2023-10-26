@@ -13,7 +13,7 @@ It's also helpful for when I go off my computer but forget to shut it down. It's
 
 # Usage
 
-1. Download [AutoHibernate.cpp](https://github.com/HorridModz/Auto-Hibernate/blob/main/AutoHibernate.cpp)
+1. Download [AutoHibernate.cpp](https://github.com/HorridModz/Auto-Hibernate/releases/download/V1.0/AutoHibernate.cpp)
 2. Open the file into a text editor, such as Notepad
 3. Change hibernate hour and minute (military time)
 4. Open a command line (such as cmd or Powershell) and cd to the directory you have downloaded the script to
